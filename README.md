@@ -32,3 +32,7 @@ lib/
 hook/build.dart                 flutter_scene のアセット変換 (dart run flutter_scene:init で生成)
 .claude/skills/                 flutter_scene 同梱のコーディングエージェント向けスキル
 ```
+
+
+https://github.com/user-attachments/assets/079889e2-f7d3-42ec-9248-5eabb08344fa
+
